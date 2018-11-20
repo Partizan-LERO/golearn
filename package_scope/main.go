@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Partizan-LERO/golearn/scopes/package_scope/nested_package"
+	"github.com/Partizan-LERO/golearn/package_scope_package"
 )
 
 func main() {
